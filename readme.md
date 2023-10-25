@@ -20,6 +20,9 @@ Another, perhaps better, way of looking at Nomenclature is that it is concerned 
 
 - A copy of the BWARS Public database (included)
 - A program to open SQLite files, run queries, and view results.
+- If you want to follow along, a **very** basic understanding of how to use DB Browser. If you know where to paste a query and what button to press to run it, that's enough.
 
 >This guide has been written using DB Browser, which can be found at https://sqlitebrowser.org/
 
+---
+When you are ready, go to `walkthrough.md`
