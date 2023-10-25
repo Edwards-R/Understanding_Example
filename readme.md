@@ -24,5 +24,14 @@ Another, perhaps better, way of looking at Nomenclature is that it is concerned 
 
 >This guide has been written using DB Browser, which can be found at https://sqlitebrowser.org/
 
+### GitHub
+
+This entire project can be downloaded from GitHub at 
+https://github.com/Edwards-R/Understanding_Example/tree/master
+
+For those unfamiliar with GitHub, click the green `Code` button and select `Download ZIP`.
+
+![Download instructions](download_instructions.png)
+
 ---
 When you are ready, go to `walkthrough.md`
