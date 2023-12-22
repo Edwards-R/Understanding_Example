@@ -34,4 +34,4 @@ For those unfamiliar with GitHub, click the green `Code` button and select `Down
 ![Download instructions](download_instructions.png)
 
 ---
-When you are ready, go to `walkthrough.md`
+When you are ready, go to [walkthrough.md](./walkthrough.md)
